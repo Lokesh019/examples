@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class count {
-
         public static int countPairsWithSum(int[] arr, int X) {
 
         Map<Integer, Integer> numFrequency = new HashMap<>();
